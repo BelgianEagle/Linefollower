@@ -14,6 +14,8 @@
 | 9 | dupont draadjes | female - female/male dupont draadjes | recup | onbekend | 8 | onbekend |
 | 10 | koper draad met isolatie | koperdraad met 3 kleuren isolatie | recup | onbekend | 3 | onbekend |
 | 11 | Pololu Wheel 40×7mm Pair - Black | paar wielen voor de DC-motoren | nieuw | € 4,95 | 1 | € 4,95 |
-| 12 | Pololu Micro Metal Gearmotor Bracket Pair - Black | bracket voor de motoren op de printplaat te houden | nieuw | € 2,95 | 1 | € 2,95 |
-| 13 | 2x 18650 Batterijhouder met losse draden | baterij houder voor 2 18650 li-ion cellen | nieuw | € 1,75 | 1 | € 1,75 |
-| 14 | LG ICR18650-HD2 2000mAh - 25A | li-ion cellen in het 18650 formaat | nieuw | € 2,35 | 2 | € 5,70 |
+| 12 | Pololu Micro Metal Gearmotor Bracket Pair - Black | bracket om de motoren op de printplaat te houden | nieuw | € 2,95 | 1 | € 2,95 |
+| 13 | 2x 18650 Batterijhouder met losse draden | batterij houder voor 2 18650 li-ion cellen | nieuw | € 1,75 | 1 | € 1,75 |
+| 14 | LG ICR18650-HD2 2000mAh - 25A | Li-ion cellen in het 18650 formaat | nieuw | € 2,35 | 2 | € 5,70 |
+| 15 | dubbelzijdige plakband | plakband om bepaalde onderdelen vast houden | recup | onbekend | 1 | onbekend |
+| 16 | afdekkap schroef | gebuikt om de sensor omhoog te houden | recup | onbekend | 2 | onbekend |
