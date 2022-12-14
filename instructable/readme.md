@@ -2,6 +2,8 @@
 
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
+## bouwen van de auto
+
 ### stap 1
 bestel alle componenten uit de bill of materials
 
@@ -94,7 +96,7 @@ verbind het andere beentje van de knop aan de 10K ohm weerstand maar doe dit aan
 ### stap 28 
 plak nu met dubbel zijdige tape de knoppen vast aan de achterkant van de printplaat.
 
-##Uploaden van de code
+## Uploaden van de code
 
 ### stap 29
 download de het .ino bestand op github onder "finale code".
