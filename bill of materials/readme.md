@@ -19,3 +19,4 @@
 | 14 | LG ICR18650-HD2 2000mAh - 25A | Li-ion cellen in het 18650 formaat | nieuw | € 2,35 | 2 | € 5,70 |
 | 15 | dubbelzijdige plakband | plakband om bepaalde onderdelen vast houden | recup | onbekend | 1 | onbekend |
 | 16 | afdekkap schroef | gebuikt om de sensor omhoog te houden | recup | onbekend | 2 | onbekend |
+| 17 | Nitecore UI2 USB batterijlader | oplader voor de 18650 baterijen | recup | € 10,95 | 1 |  € 10,95 |
