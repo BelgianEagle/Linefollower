@@ -10,7 +10,7 @@ teken vooraan de linefollwer (een van de korte zeides) een rechthoek van 50 x 30
 
 ### Stap 3
 Snij de rechthoek van 50x30 mm in een keer uit (als gewenst kunnen we voor hulp klijne gaaatjes boren op de interne hoeken van de rechthoek). 
-#### Gooi deze niet weg we gebruiken het later nog!
+LET OP:Gooi deze niet weg we gebruiken het later nog!
 
 ### Stap 4
 Meet nu 120 mm af van de voorkant van de linefollower. duid deze plaats aan beide zijden aan.
@@ -23,8 +23,8 @@ Boor nu gaten op de 4 aangeduide plaatsen uit stap 5
 
 ### stap7
 Nu dat de printplaat klaar is bereiden we de componenten voor om te solderen. dit doen we door indien nodig de beentjes op de sensor, H-brug en spanningsomvormer te solderen.
-#### HINT: Soldeer de pinnen zodanig dat de benaming altijd naar boven wijst.
-#### LET OP: zorg dat de beentjes aan de andere kant zitten dan de sensoren op de array.
+HINT: Soldeer de pinnen zodanig dat de benaming altijd naar boven wijst.
+LET OP: zorg dat de beentjes aan de andere kant zitten dan de sensoren op de array.
 
 ### stap 8
 Plaats de esp32 redelijk dicht bij de voorkant maar zorg dat er nog zeker 2 draadjes tussen de esp en de uitgesneden rechthoek kunnen.
@@ -38,7 +38,7 @@ verbind nu de pinnen led en vcc op de sensor met de dupont draadjes op 3V, de gr
 
 ### stap 11
 soldeer nu aan de kant van de USB poort de 5V omvormer.
-#### LET OP: de USB ingang van de ESP 32 genoeg vrijblijft.
+LET OP: de USB ingang van de ESP 32 genoeg vrijblijft.
 
 ### stap 12
 verbind de Vout van de omvormer met de 5V en de ground van de omvormer met een ground van de esp32.
@@ -64,7 +64,7 @@ We verbinden de rechtste motor met Buit 1 en Buit 2 verbind de plus kant van de 
 
 ### stap 19
 Verbindt de negatieve pool (zwarte kabel) met de ground aan de uit kant van de h)brug en de ground van de spannings omvormer.
-#### HINT: dit is het gemakelijkste met een tussenstap in de linsk achter hoek van de auto
+HINT: dit is het gemakelijkste met een tussenstap in de linsk achter hoek van de auto
 
 ### stap 20
 Pak de rechthoek erbij die in stap 3 is uitgesneden en sij hem parrallel met de korte zijde in 2.
@@ -80,7 +80,7 @@ Verbind de positieve pool van de baterijhouder (rode draad) met een van de twee 
 
 ### stap 24
 verbind het middenste beentje van de schakelaar met de Vin  van de H-brug en de spanningsomvormer.
-#### HINT: dit is het gemakelijkste met een tussenstap in de linsk achter hoek van de auto in de buurt van de ground
+HINT: dit is het gemakelijkste met een tussenstap in de linsk achter hoek van de auto in de buurt van de ground
 
 ### stap 25
 Plaats nu de baterij houder met de achterste baterij boven de motor as. We houden deze in de lucht met 2 kartonnenlatjes die we kunnen bevestigen op de printplaat met dubbelzijdeige plakband. plaats de baterijhouder met de plakand ook op de kartonetje
@@ -94,7 +94,7 @@ verbind het andere beentje van de knop aan de 10K ohm weerstand maar doe dit aan
 ### stap 28 
 plak nu met dubbel zijdige tape de knoppen vast aan de achterkant van de printplaat.
 
-### Het autootje is nu compleet het vervolg gaat over het compileren en uploaden van de code.
+##Uploaden van de code
 
 ### stap 29
 download de het .ino bestand op github onder "finale code".
@@ -116,4 +116,4 @@ compileer de code door linsk vanboven op het vinkje te drukken.
 als de code compileert kan deze geupload worden door naast het vinkje op het pijltje te duwen.
 Lukt dit niet controleer dan nog eens ofdat de instellingen in arduino ide kloppen.
 
-### De auto is compleet en de code is gedownload dus kunnen we beginnen met te tunen. Verdere uitleg om te werken met het autootje vinden we op github bij "gebruiksaanwijzing"
+als alles juist gedaan is zou het autootje nu rechtdoor moeten rijden
