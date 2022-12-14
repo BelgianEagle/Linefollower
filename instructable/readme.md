@@ -116,4 +116,4 @@ compileer de code door linsk vanboven op het vinkje te drukken.
 als de code compileert kan deze geupload worden door naast het vinkje op het pijltje te duwen.
 Lukt dit niet controleer dan nog eens ofdat de instellingen in arduino ide kloppen.
 
-### De auto is compleet en de code is gedownload dus kunnen we beginnen met te tunen. Verdere uitleg om te werken met het autootje vinden we op github bij "gebruiks aanwijzing"
+### De auto is compleet en de code is gedownload dus kunnen we beginnen met te tunen. Verdere uitleg om te werken met het autootje vinden we op github bij "gebruiksaanwijzing"
