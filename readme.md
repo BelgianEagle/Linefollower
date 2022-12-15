@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ESP32 NODEMCU Module WiFi
 <br />
-motors: 
+motors: pololu micrometalgear 1:50
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR8-A (alle 8 sensoren gebruikt)
 <br />
-batteries:
+batteries: 18650 Li-ion
 <br />
-wireless communication:
+wireless communication: ingebouwde bluetooth
 <br />
-distance sensor - motors:
+distance sensor - motors: 105mm
 <br />
-weight:
+weight: 210g
 <br />
 speed: 
 <br />
