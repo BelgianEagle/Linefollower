@@ -105,7 +105,8 @@ download de het .ino bestand op github onder "finale code".
 open het bestand in arduino ide.
 
 ### stap 31
-maak de arduino omgeving compatible met esp32.
+maak de arduino omgeving compatible met esp32 door in arduino ide Bij File-prefrences deze link toe te voegen:
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 ### stap 32
 kies vanboven in de arduino omgeving als microcontroler: "ESP32 dev module".
