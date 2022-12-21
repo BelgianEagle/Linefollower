@@ -99,7 +99,7 @@ plak nu met dubbel zijdige tape de knoppen vast aan de achterkant van de printpl
 ## Uploaden van de code
 
 ### stap 29
-download de het .ino bestand op github onder "finale code".
+download de het .ino bestand en de 2 libraries op github onder "finale code".
 
 ### stap 30
 open het bestand in arduino ide.
@@ -113,9 +113,12 @@ kies vanboven in de arduino omgeving als microcontroler: "ESP32 dev module".
 stel de bautrate in op 115600.
 
 ### stap 33
-compileer de code door linsk vanboven op het vinkje te drukken.
+Download de arduino libraries die bovenaan de code staan
 
 ### stap 34
+compileer de code door linsk vanboven op het vinkje te drukken.
+
+### stap 35
 als de code compileert kan deze geupload worden door naast het vinkje op het pijltje te duwen.
 Lukt dit niet controleer dan nog eens ofdat de instellingen in arduino ide kloppen.
 
