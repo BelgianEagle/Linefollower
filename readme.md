@@ -11,7 +11,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 microcontroller: ESP32 NODEMCU Module WiFi
 <br />
-motors: pololu micrometalgear 1:50
+motors: pololu micrometalgear 1:50 HP
 <br />
 h-bridge: DRV8833
 <br />
