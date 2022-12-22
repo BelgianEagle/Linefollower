@@ -39,12 +39,12 @@ De makelijkste manier om de line folor te parametreren is door op een lage power
 De robot rijdt stabiel met volgende parameters: 
 
 stabiel in de bochten
-power:120
-diff: 0,2
-Kp: 6,25
-Ki: 0
-kd: 0,13
-Cycle: 1500
+ - power:120
+ - diff: 0,2
+ - Kp: 6,25
+ - Ki: 0
+ - kd: 0,13
+ - Cycle: 1500
 
 
 ### start/stop button
