@@ -32,8 +32,20 @@ De linefollwer kan gecalibreerd worden in vier stappen:
 
 Proficiat de linefollower is gecalibreerd.
 
+### parametreren
+De makelijkste manier om de line folor te parametreren is door op een lage power setting te starten. Hier verhogen we Kp en spelen met de diff tot de line followor verschillende rondjes achterelkaar kan rijden. De auto rijdt nu onstabiel maar kan de lijn volgen. Hierna wordt Kd verhoogt tot de oscilatie weg zijn. Nu kunnen we de power verhogen en passen Kp en Kd aan de diff veranderen kan ook helpen om sneller te gaan in de bochten maar is niet noodzakelijk (bij mij was een lage diff goed genoeg). Op een bepaald moment is Kp niet meer goed genoeg voor bochten te nemen en kan Ki ook traagjes verhoogd worden. Op een bepaald moment gaat de linefollower niet smeer sneller kunnen rijden zonder de code aan te passen. 
+
 ### settings
-De robot rijdt stabiel met volgende parameters:  
+De robot rijdt stabiel met volgende parameters: 
+
+stabiel in de bochten
+power:120
+diff: 0,2
+Kp: 6,25
+Ki: 0
+kd: 0,13
+Cycle: 1500
+
 
 ### start/stop button
 De start/stop button is de zwarte knop die zich rechts vanachter op de linefollwer bevindt.
