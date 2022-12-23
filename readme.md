@@ -1,8 +1,7 @@
 # LineFollower
 <br />
-![A description of my image](pictures/Picture Linefollower.jpg)
+![foto auto](https://github.com/BelgianEagle/Linefollower/blob/main/pictures/Picture%20Linefollower.jpg)
 
-  
 ## specifications
 <br />
 microcontroller: ESP32 NODEMCU Module WiFi
