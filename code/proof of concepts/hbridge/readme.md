@@ -10,3 +10,6 @@ Working voltage: 3 or 6 volts
 No-load Current: 55mA @ 6V
 700mA stall current @ 6V
 Torque:1.2Kg/cm @6V
+
+link wegens geen datasheet: </br>
+spanningsomvormer: https://www.pololu.com/product/2870
